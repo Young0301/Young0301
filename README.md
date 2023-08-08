@@ -11,7 +11,7 @@
 
 <!-- first line -->
 <tr>
-<td valign="top" width="50%">
+<td valign="top" width="480px">
 
 #### 🏳️‍🌈 Random Plan
 
@@ -27,7 +27,7 @@
 
 </td>
 
-<td valign="top" width="50%">
+<td valign="top" width="480px">
 
 #### 🎉 Great Weekly
 
@@ -40,7 +40,7 @@
 
 <!-- second line -->
 <tr>
-<td valign="top" width="50%">
+<td valign="top" width="480px">
 
 #### 🌴 <a href="https://juejin.cn/user/2348212570056430/posts" target="_blank">Recent Blog</a>
 
@@ -52,7 +52,7 @@
 
 </td>
 
-<td valign="top" width="50%">
+<td valign="top" width="480px">
 
 #### 🍍 Product Idea
 
