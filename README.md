@@ -18,17 +18,23 @@
 #### 🏳️‍🌈 Random Plan
 
 <!-- plan start -->
+ - 每周一个ARTS：
+   - Algorithm: 一道算法题
+   - Review: 读一篇英文文章
+   - Technique/Tips: 分享一个小技术
+   - Share: 分享一个观点
+
 <!-- plan end -->
 
 </td>
 
 <td valign="top" width="50%">
 
-#### 🌴 <a href="https://juejin.cn/user/2348212570056430/posts" target="_blank">Recent Blog</a>
+#### 🎉 Great Weekly
 
-<!-- blog start -->
-<!-- * <a href='https://tw93.fun/2023-07-20/great.html' target='_blank'>译·如何做出伟大的工作</a> - 2023-07-20 -->
-<!-- blog end -->
+<!-- weekly start -->
+* <a href='https://tw93.fun/2023-07-20/great.html' target='_blank'>转自Tw93：译·如何做出伟大的工作</a> - 2023-08-08
+<!-- weekly end -->
 
 </td>
 </tr>
@@ -37,11 +43,13 @@
 <tr>
 <td valign="top" width="50%">
 
-#### 🎉 Great Weekly
+#### 🌴 <a href="https://juejin.cn/user/2348212570056430/posts" target="_blank">Recent Blog</a>
 
-<!-- weekly start -->
+<!-- blog start -->
 <!-- * [第 140 期 - xxxx](https://weekly.tw93.fun/posts/140-xxxx) - 2023-08-06 -->
-<!-- weekly end -->
+<!-- * <a href='https://tw93.fun/2023-07-20/great.html' target='_blank'>译·如何做出伟大的工作</a> - 2023-07-20 -->
+
+<!-- blog end -->
 
 </td>
 
